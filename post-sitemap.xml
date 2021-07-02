@@ -8,15 +8,7 @@
 
     <url>
         <loc>https://augusdn.github.io/2016/03/08/putty-and-xming/</loc>
-        <lastmod>2021-07-02T13:02:40.838Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://augusdn.github.io/2018/01/11/Hexo-blog-framework/</loc>
-        <lastmod>2021-07-02T13:02:40.834Z</lastmod>
+        <lastmod>2021-07-02T13:57:50.583Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -24,7 +16,15 @@
 
     <url>
         <loc>https://augusdn.github.io/2018/01/11/How-to-fix-Deployer-not-found-git/</loc>
-        <lastmod>2021-07-02T13:02:40.834Z</lastmod>
+        <lastmod>2021-07-02T13:57:50.579Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://augusdn.github.io/2018/01/11/Hexo-blog-framework/</loc>
+        <lastmod>2021-07-02T13:57:50.579Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -32,7 +32,7 @@
 
     <url>
         <loc>https://augusdn.github.io/2018/02/25/League-of-Legends-in-different-language/</loc>
-        <lastmod>2021-07-02T13:02:40.834Z</lastmod>
+        <lastmod>2021-07-02T13:57:50.579Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -40,7 +40,7 @@
 
     <url>
         <loc>https://augusdn.github.io/2018/01/11/Make-new-blog-with-GitHub-Page-with-Hexo/</loc>
-        <lastmod>2021-07-02T13:02:40.834Z</lastmod>
+        <lastmod>2021-07-02T13:57:50.579Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -48,7 +48,7 @@
 
     <url>
         <loc>https://augusdn.github.io/2018/01/21/hexo-theme/</loc>
-        <lastmod>2021-07-02T13:02:40.834Z</lastmod>
+        <lastmod>2021-07-02T13:57:50.579Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -56,7 +56,7 @@
 
     <url>
         <loc>https://augusdn.github.io/2019/01/16/2019-Leauge-of-Legends-korean-client-patch/</loc>
-        <lastmod>2021-07-02T13:02:40.830Z</lastmod>
+        <lastmod>2021-07-02T13:57:50.575Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -64,7 +64,7 @@
 
     <url>
         <loc>https://augusdn.github.io/2016/03/22/Doomsday-Algorithm/</loc>
-        <lastmod>2021-07-02T13:02:40.830Z</lastmod>
+        <lastmod>2021-07-02T13:57:50.575Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -72,7 +72,7 @@
 
     <url>
         <loc>https://augusdn.github.io/2016/07/21/HTC-Vive/</loc>
-        <lastmod>2021-07-02T13:02:40.830Z</lastmod>
+        <lastmod>2021-07-02T13:57:50.575Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
